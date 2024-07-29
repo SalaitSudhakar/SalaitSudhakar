@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **salaitsudhakar.s@gmail.com**
 
-- ⚡ I am currently learning **HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB, Mongoose, Tailwind CSS**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/salaitsudhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salaitsudhakar" height="30" width="40" /></a>
