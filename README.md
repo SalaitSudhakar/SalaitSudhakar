@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 📫 Contact me here:-👉 **salaitsudhakar.s@gmail.com**
+- 📫 Contact me here:-👉 **saletsudhakar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
